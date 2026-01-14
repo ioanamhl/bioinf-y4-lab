@@ -1,0 +1,16 @@
+drug,num_targets
+Cisplatin,2
+Doxorubicin,2
+Etoposide,2
+Nutlin-3,2
+Erlotinib,1
+Gefitinib,1
+Imatinib,1
+Lapatinib,1
+Olaparib,1
+PARP_inhibitor,1
+Talazoparib,1
+Trametinib,1
+Trastuzumab,1
+Vemurafenib,1
+Venetoclax,1

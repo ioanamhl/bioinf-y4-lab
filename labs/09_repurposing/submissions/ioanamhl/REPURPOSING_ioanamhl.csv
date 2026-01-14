@@ -1,0 +1,16 @@
+drug,distance,num_targets
+Cisplatin,2.6666666666666665,2
+Doxorubicin,3.333333333333333,2
+Etoposide,3.333333333333333,2
+Nutlin-3,3.333333333333333,2
+PARP_inhibitor,3.333333333333333,1
+Erlotinib,4.333333333333333,1
+Gefitinib,4.333333333333333,1
+Imatinib,6.0,1
+Lapatinib,6.0,1
+Olaparib,6.0,1
+Talazoparib,6.0,1
+Trametinib,6.0,1
+Trastuzumab,6.0,1
+Vemurafenib,6.0,1
+Venetoclax,6.0,1
